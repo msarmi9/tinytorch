@@ -1,4 +1,4 @@
 from . import data
-from . import metrics
 from . import nn
-from . import trainer
+from .metrics import accuracy
+from .trainer import Trainer
