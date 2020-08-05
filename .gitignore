@@ -19,7 +19,7 @@ __pycache__/
 .*.swp
 
 # Build info created from `pip install -e <package>`
- *.egg-info
+*.egg-info
 
 # Ignore pre-commit yaml
 .pre-commit-config.yaml
